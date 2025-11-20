@@ -39,3 +39,6 @@ pip install selenium beautifulsoup4 pandas pyperclip
 ## 라이선스
 이 프로젝트는 교육 목적으로 제작되었습니다.
 
+## 첨부파일
+- [📊 11조 최종 발표자료.pptx](./11조%20최종%20발표자료.pptx) - 프로젝트 발표 자료
+
